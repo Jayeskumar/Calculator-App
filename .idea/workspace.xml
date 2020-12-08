@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8683bf1-a066-4f7c-a56a-9cba2ddfd7fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
+  <component name="GenerateSignedApkSettings">
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="ProjectId" id="1lMd2JXCwDxZVMpAvXKgA7j0ysr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="CourseraCalculator-master" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/jre/jre/LICENSE" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8683bf1-a066-4f7c-a56a-9cba2ddfd7fc" name="Default Changelist" comment="" />
+      <created>1607410686956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607410686956</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="205" key="FileChooserDialogImpl" timestamp="1607412025372">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="420" y="205" key="FileChooserDialogImpl/0.0.1280.920@0.0.1280.920" timestamp="1607412025372" />
+    <state x="335" y="288" key="com.intellij.ide.util.TipDialog" timestamp="1607410703186">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="335" y="288" key="com.intellij.ide.util.TipDialog/0.0.1280.920@0.0.1280.920" timestamp="1607410703186" />
+  </component>
+</project>
